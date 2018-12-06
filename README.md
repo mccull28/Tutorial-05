@@ -1,2 +1,2 @@
-# Tutorial-05
-UofT - MAT231 - Tutorial 05
+# Tutorial-06
+UofT - MAT231 - Tutorial 06
